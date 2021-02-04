@@ -6,3 +6,4 @@ Now I add to see if I can see on git diff
 
 Ok let me try this again a second time
 
+OK what if i write a bunch of stuff and pull from origin what will happen?
